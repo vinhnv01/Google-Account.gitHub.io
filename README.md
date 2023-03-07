@@ -632,8 +632,20 @@ Vì vậy, hãy khai báo phụ thuộc sau: <br>
    <br> <img width="600px" src="https://www.codejava.net/images/articles/frameworks/springboot/oauth-google/Product_List_page.png"  alt="GitHub Readme Stats" /> <br>
    </div>
    Nếu bạn thấy trang này, xin chúc mừng! Bạn đã triển khai thành công đăng nhập Google trong ứng dụng Spring Boot với API ứng dụng Spring OAuth2. Lưu ý rằng tên tài khoản Google của bạn được hiển thị trong thông báo chào mừng và hãy kiểm tra bảng người dùng để xem một hàng mới đã được chèn.
-   
-   
+ 
+```javascript
+<script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-WS6J8Y7SXF"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-WS6J8Y7SXF");
+  </script>
    
    
    
