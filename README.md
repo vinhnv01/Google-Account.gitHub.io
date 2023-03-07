@@ -636,7 +636,7 @@ Vì vậy, hãy khai báo phụ thuộc sau: <br>
 ```javascript
 <script
     async
-    src="https://www.googletagmanager.com/gtag/js?id=G-WS6J8Y7SXF"
+    src="https://www.googletagmanager.com/gtag/js?id=G-DK5TRV6LC5"
   ></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -644,7 +644,7 @@ Vì vậy, hãy khai báo phụ thuộc sau: <br>
       dataLayer.push(arguments);
     }
     gtag("js", new Date());
-    gtag("config", "G-WS6J8Y7SXF");
+    gtag("config", "G-DK5TRV6LC5");
   </script>
    
    
